@@ -52,9 +52,11 @@ the browser to stretch the canvas to fill the window with CSS. Example
     <html>
       <head>
         <style>
-          /* remove the border */
+          /* remove the border, margin and padding */
           body {
             border: 0;
+            margin: 0;
+            padding: 0;
             background-color: white;
           }
           /* make the canvas the size of the viewport */
