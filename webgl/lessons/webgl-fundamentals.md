@@ -386,7 +386,7 @@ triangle will be drawn at clip space coordinates
       0.7, 0,
 
 Converting from clip space to screen space WebGL is going to draw a triangle at. If the canvas size
-happned to be 400x300 we'd get something like this
+happened to be 400x300 we'd get something like this
 
      clip space      screen space
        0, 0       ->   200, 150
